@@ -1,0 +1,26 @@
+{
+  "name": "honkit-plugin-figure-numbering",
+  "version": "1.0.11",
+  "description": "A plugin for HonKit that will automatically number figures in your Markdown book.",
+  "main": "index.js",
+  "author": "Simone Cappabianca",
+  "license": "MIT",
+  "homepage": "https://github.com/K-Software/honkit-plugin-figure-numbering.git",
+  "bugs": {
+    "url": "https://github.com/K-Software/honkit-plugin-figure-numbering/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K-Software/honkit-plugin-figure-numbering.git"
+  },
+  "keywords": [
+    "honkit",
+    "plugin",
+    "markdown",
+    "book",
+    "figure"
+  ],
+  "engines": {
+    "honkit": ">=6.0.2"
+  }
+}
